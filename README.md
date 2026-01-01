@@ -1,1 +1,1 @@
-Module-team is a module designed to organize, manage, and operate teams within the Guildee / Discord ecosystem
+This module allows you to add a /team page to your website, providing a fully customizable interface to display, manage, and organize teams.
